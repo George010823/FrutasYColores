@@ -1,0 +1,16 @@
+.frutasH1{
+    margin-left: 20px;
+}
+
+li {
+	background-color: #FFFFFF;
+}
+
+li.pares {
+	background-color: #EFEFEF;
+}
+
+li.impares {
+	background-color: #F2F2F2;
+}
+
